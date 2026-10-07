@@ -1,5 +1,7 @@
 # 🎌 日语学习笔记｜Notes de cours de japonais
 
+[🇫🇷 Lire la version française](README.fr.md)
+
 一份面向中文和法语学习者的日语入门笔记，陪你从 **あいうえお** 走到第一次完整的自我介绍。  
 Des notes bilingues chinois–français pour débuter le japonais, de **あいうえお** à la première présentation complète.
 
