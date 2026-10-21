@@ -171,4 +171,13 @@
 | 猫（ねこ）  | neko   | 猫   | chat                   |
 | 刀（かたな） | katana | 刀   | sabre japonais, katana |
 
+## 10. 第四课新增词汇｜Vocabulaire ajouté en leçon 4
+
+| 日文 | 罗马音 | 中文 | Français |
+|---|---|---|---|
+| 蛍光ペン（けいこうペン） | keikō pen | 荧光笔 | surligneur |
+| 弁当箱（べんとうばこ） | bentōbako | 便当盒 | boîte à bento |
+| 付箋（ふせん） | fusen | 便利贴 | pense-bête autocollant |
+| スーツケース | sūtsukēsu | 行李箱 | valise |
+
 
